@@ -1,0 +1,45 @@
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\LKS2018.exe
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\LKS2018.pdb
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\LKS2018.xml
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\mysql.data.dll
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\mysql.data.entity.dll
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\MySql.Debugger.dll
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\MySql.Debugger.VisualStudio.dll
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\bin\Debug\MySql.Parser.dll
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.vbprojResolveAssemblyReference.cache
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.Form1.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.Index.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.Login.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.cart.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.IndexMember.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.ProfileMember.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.Resources.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.register.resources
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.vbproj.GenerateResource.Cache
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.exe
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.xml
+C:\Users\Annisa Safa\AppData\Local\Temporary Projects\LKS2018\obj\x86\Debug\LKS2018.pdb
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.exe
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.xml
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.pdb
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\LKS2018.exe
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\LKS2018.pdb
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\LKS2018.xml
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\mysql.data.dll
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\mysql.data.entity.dll
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\MySql.Debugger.dll
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\MySql.Debugger.VisualStudio.dll
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\bin\Debug\MySql.Parser.dll
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.vbprojResolveAssemblyReference.cache
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.Form1.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.Index.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.Login.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.cart.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.IndexMember.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.ProfileMember.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.Resources.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.register.resources
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.vbproj.GenerateResource.Cache
+C:\Users\Annisa Safa\documents\visual studio 2010\Projects\LKS2018\LKS2018\obj\x86\Debug\LKS2018.forgotpassword.resources
